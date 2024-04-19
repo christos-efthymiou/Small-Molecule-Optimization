@@ -1,0 +1,14 @@
+run_type = "sampling"
+use_cuda = true  # Adjust based on your GPU availability
+json_out_config = "_mol2mol_sampling.json"
+
+[parameters]
+model_file = "./REINVENT4/priors/mol2mol_medium_similarity.prior"
+smiles_file = "mol2mol.smi"
+sample_strategy = "beamsearch"
+temperature = 1.0
+tb_logdir = "tb_logs"
+output_file = 'sampling.csv'
+num_smiles = 157
+unique_molecules = true
+randomize_smiles = true
