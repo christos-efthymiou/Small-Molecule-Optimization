@@ -1,6 +1,6 @@
 # SMILES Molecule Generator and Analyzer
 
-This repository contains a Jupyter notebook that integrates various tools to generate and analyze SMILES (Simplified Molecular Input Line Entry System) molecules. The notebook allows users to input SMILES strings, generate new molecular structures using REINVENT, and calculate various chemical properties using RDKit. The molecules are then ranked based on their drug-likeness and other ADMET properties.
+This repository contains a Jupyter notebook that integrates various tools to generate and analyze SMILES (Simplified Molecular Input Line Entry System) molecules. The notebook allows users to input SMILES strings, generate new optimized molecular structures using REINVENT, and calculate various chemical properties using RDKit. The molecules are then ranked based on their drug-likeness and other ADMET properties.
 
 ## Features
 
