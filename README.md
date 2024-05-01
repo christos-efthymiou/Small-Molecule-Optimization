@@ -8,6 +8,7 @@ This repository contains a Jupyter notebook that integrates various tools to gen
 - **Property Calculation**: Calculate molecular properties such as molecular weight, logP, and topological polar surface area using RDKit.
 - **Dynamic Visualization**: Interactive widgets allow users to view and select different molecular properties dynamically.
 - **Ranking System**: Molecules are ranked based on calculated properties to identify promising drug candidates.
+- **3D Visualization**: Molecules can be selected for 3D visualization and inspection.
 
 ## Setup and Installation
 
